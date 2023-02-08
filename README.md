@@ -1,8 +1,8 @@
-![logo](https://github.com/ZhalayB/ZhalayB/commit/3fd231e9aa354194d8aaa081cdc56f87f301fdcc)
+![logo](https://github.com/ZhalayB/ZhalayB/blob/main/zhalay%20background.png)
 <h1 align="center">Hi 👋, I'm Zhalay Baloch</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right"alt="coding"width="400" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif cid=6c09b952ozzrg9j3jbbriye1yj2rm2s1qz0usyfiuj04f89d&rid=200w.gif&ct=g">
+<img align="right"alt="coding"width="400"src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gifcid=6c09b952ozzrg9j3jbbriye1yj2rm2s1qz0usyfiuj04f89d&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhalay&label=Profile%20views&color=0e75b6&style=flat" alt="zhalay" /> </p>
 
