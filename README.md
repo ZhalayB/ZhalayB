@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zhalay Baloch</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gifcid=6c09b952ozzrg9j3jbbriye1yj2rm2s1qz0usyfiuj04f89d&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw0-bOZhGrn81QZQnFnje6oM&ust=1675916403063000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOjGr6OJhf0CFQAAAAAdAAAAABAN">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhalay&label=Profile%20views&color=0e75b6&style=flat" alt="zhalay" /> </p>
 
 - 🔭 I’m currently working on [Studying](Software Engineering)
